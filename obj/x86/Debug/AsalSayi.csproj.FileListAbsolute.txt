@@ -1,0 +1,5 @@
+D:\ASP.NETProjelerim\AsalSayi\bin\Debug\AsalSayi.exe
+D:\ASP.NETProjelerim\AsalSayi\bin\Debug\AsalSayi.pdb
+D:\ASP.NETProjelerim\AsalSayi\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ASP.NETProjelerim\AsalSayi\obj\x86\Debug\AsalSayi.exe
+D:\ASP.NETProjelerim\AsalSayi\obj\x86\Debug\AsalSayi.pdb
